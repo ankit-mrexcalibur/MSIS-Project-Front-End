@@ -3,12 +3,12 @@ MSIS Project Front End is part of the MSIS (Medical Speciality Identification Sy
 About MSIS:-
 This is a web application which identifies medical speciality on medical transcription data. This is an automation solution to replace the manual human intervention for booking appointment with a medical specialist. We will be using NLP techniques for processing the unstructured medical data and applying supervised machine learning to predict the medical specialty.
 This application is currently capable to predict the follow medical specialities:
-  Cardiovascular/Pulmonary
-  General Medicine
-  Surgery
-  Radiology
-  Orthopedic
-  Consult - History and Physician
+1. Cardiovascular/Pulmonary
+2. General Medicine
+3. Surgery
+4. Radiology
+5. Orthopedic
+6. Consult - History and Physician
 
 This MSIS application has a Flask backend, and it uses RestAPIs to get requests on the provided transcription.
 The Link to the backend is:
